@@ -1,0 +1,15 @@
+[submodule "cgc-challenges"]
+	path = cgc-challenges
+	url = https://github.com/novafacing/cgc-challenges.git
+[submodule "wolfssl"]
+	path = wolfssl
+	url = https://github.com/wolfSSL/wolfssl
+[submodule "axtls"]
+	path = axtls
+	url = https://github.com/novafacing/axtls
+[submodule "clamav"]
+	path = clamav
+	url = https://github.com/Cisco-Talos/clamav
+[submodule "git"]
+	path = git
+	url = https://github.com/git/git
